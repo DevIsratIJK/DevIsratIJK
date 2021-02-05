@@ -149,6 +149,7 @@ My Current Workstation Specification </h2>
 :star: [HackerRank](https://www.hackerrank.com/IsratIJK) <br>
 :star: [URI](https://www.urionlinejudge.com.br/judge/en/profile/436965) <br>
 :star: [Dimik OJ](https://dimikoj.com/users/6472/IsratIJK) <br>
+:star: [CodeChef](https://www.codechef.com/users/isratijk) <br>
 
 <i>Many more are coming soon...<i> :cupid:
 
